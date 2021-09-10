@@ -1,4 +1,4 @@
-# Hi 👋 I'm Willian Juliate. 
+# Hi 🤙🏾 I'm Willian Juliate. 
 I'm a Back-end developer and opensource technology enthusiast
 
 🏆 Skills: 
