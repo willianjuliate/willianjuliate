@@ -1,8 +1,7 @@
-# Hi 🤙🏾 I'm Willian Juliate. 
-I'm a Back-end developer and opensource technology enthusiast
+# Oi eu sou Willian Juliate. 
 
-🏆 Skills: 
+Skills: 
 **Rust**, **Python**, **HTML**, **CSS** <br> **JavaScript**,
 **PHP**, **Cloud computing and Linux Web Services**
 
-💼 Tools: **VSCode**, **PyCharm**, **Linux**, **Trello**, **Git**, **GitHub**.
+Tools: **VSCode**, **PyCharm**, **Linux**, **Trello**, **Git**, **GitHub**.
