@@ -1,7 +1,7 @@
 # Oi eu sou Willian Juliate. 
 
-Skills: 
+Habilidades: 
 **Rust**, **Python**, **HTML**, **CSS** <br> **JavaScript**,
 **PHP**, **Cloud computing and Linux Web Services**
 
-Tools: **VSCode**, **PyCharm**, **Linux**, **Trello**, **Git**, **GitHub**.
+Ferramentas: **VSCode**, **PyCharm**, **Linux**, **Trello**, **Git**, **GitHub**.
