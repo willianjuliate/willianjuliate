@@ -6,7 +6,7 @@ Hey there! I'm **Willian**, but you can call me **Will**.
 
 - 🛠️ System Analyst and passionate **Rust** programmer
 - ⚙️ Tinkerer of clean code, efficient systems, and old-school simplicity
-- 🧠 Always learning — currently diving into **Rust** and **Functional Programming**
+- 🧠 Always learning — currently diving into **Rust** 🦀 and **Functional Programming**
 - 💬 I enjoy talking about systems architecture, performance, and timeless programming principles
 
 ## 🧰 Tech Toolbox
