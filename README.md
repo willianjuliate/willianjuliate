@@ -12,81 +12,20 @@ Hey there! I'm **Willian**, but you can call me **Will**.
 ## 🧰 Tech Toolbox
 
 ```rust
-enum Category {
-    Language,
-    Runtime,
-    Framework,
-    OS,
-    Database,
-}
-
-struct Tech {
-    name: &'static str,
-    icon: &'static str,
-    description: &'static str,
-    category: Category,
-}
-
-fn main() {
+fn main() {   
     let stack = [
-        Tech {
-            name: "Rust",
-            icon: "🦀",
-            description: "Fast and safe systems programming",
-            category: Category::Language,
-        },
-        Tech {
-            name: "C#",
-            icon: "⚙️",
-            description: "Robust OOP and desktop apps",
-            category: Category::Language,
-        },
-        Tech {
-            name: "JavaScript",
-            icon: "🌐",
-            description: "Dynamic web programming",
-            category: Category::Language,
-        },
-        Tech {
-            name: "NodeJS",
-            icon: "🟩",
-            description: "Backend with JavaScript",
-            category: Category::Runtime,
-        },
-        Tech {
-            name: "React",
-            icon: "⚛️",
-            description: "Modern web interfaces",
-            category: Category::Framework,
-        },
-        Tech {
-            name: "Linux",
-            icon: "🐧",
-            description: "My dev environment",
-            category: Category::OS,
-        },
-        Tech {
-            name: "PostgreSQL",
-            icon: "🐘",
-            description: "Reliable SQL database",
-            category: Category::Database,
-        },
+        "🦀 Rust         - Safe and blazing-fast system programming",
+        "⚙️ C#           - Robust OOP for desktop and backend apps",
+        "🌐 JavaScript   - Dynamic and versatile for the web",
+        "🟩 NodeJS       - Lightweight backend in JS land",
+        "⚛️ React        - Modern and reactive UI building",
+        "🐧 Linux        - My preferred dev environment",
+        "🐘 PostgreSQL   - Powerful and reliable open-source database",
     ];
 
     println!("### 🧰 My Tech Stack ###\n");
 
     for tech in &stack {
-        let category = match tech.category {
-            Category::Language => "Language",
-            Category::Runtime => "Runtime",
-            Category::Framework => "Framework",
-            Category::OS => "Operating System",
-            Category::Database => "Database",
-        };
-
-        println!(
-            "{} {:<12} ({}) - {}",
-            tech.icon, tech.name, category, tech.description
-        );
+        println!("{tech}");
     }
 }
