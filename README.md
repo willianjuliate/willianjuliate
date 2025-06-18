@@ -14,7 +14,7 @@ I'm a passionate **Software Developer** who loves building efficient and reliabl
 - Turn ideas into fully functional products  
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/willianjuliate)  
+- [LinkedIn](https://www.linkedin.com/in/willianjuliate/)  
 - [GitHub](https://github.com/willianjuliate)  
 
 ---
