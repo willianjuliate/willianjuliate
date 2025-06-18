@@ -1,30 +1,22 @@
-# 👋 Hello! Welcome to my GitHub profile
+# 👋 Hello! I'm Will
 
-## 🧑‍💻 About Me
+I'm a passionate **Software Developer** who loves building efficient and reliable solutions. I believe that good software is a combination of simplicity, performance, and clean code.
 
-Hey there! I'm **Willian**, but you can call me **Will**.
+## 🛠️ Tech Stack
+- 💻 **Backend:** PHP  
+- 🗄️ **Database:** MySQL  
+- 🌐 **Frontend:** HTML, CSS, JavaScript, jQuery  
 
-- 🛠️ System Analyst and passionate **Rust** programmer
-- ⚙️ Tinkerer of clean code, efficient systems, and old-school simplicity
-- 🧠 Always learning — currently diving into **Rust** 🦀
-- 💬 I enjoy talking about systems architecture, performance, and timeless programming principles
+## 🚀 What I Do
+- Develop dynamic and responsive web applications  
+- Optimize backend processes and database performance  
+- Build clean and maintainable code with a focus on simplicity  
+- Turn ideas into fully functional products  
 
-## 🧰 Tech Toolbox
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/willianjuliate)  
+- [GitHub](https://github.com/willianjuliate)  
 
-```rust
-fn main() {   
-    let stack = [
-        "🦀 Rust         - Safe and blazing-fast system programming",
-        "⚙️ C#           - Robust OOP for desktop and backend apps",
-        "🌐 JavaScript   - Dynamic and versatile for the web",        
-        "⚛️ React        - Modern and reactive UI building",
-        "🐧 Linux        - My preferred dev environment",
-        "🐘 PostgreSQL   - Powerful and reliable open-source database",
-    ];
+---
 
-    println!("### 🧰 My Tech Stack ###\n");
-
-    for tech in &stack {
-        println!("{tech}");
-    }
-}
+> *"First, make it work. Then, make it right. Finally, make it fast."*  
